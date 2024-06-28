@@ -12,7 +12,7 @@ import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter'
 import { nord } from 'react-syntax-highlighter/dist/esm/styles/prism'
 
 import styles from './Chat.module.css'
-import Azure from '../../assets/Azure.svg'
+import Azure from '../../assets/Azure2.svg'
 import { XSSAllowTags } from '../../constants/sanatizeAllowables'
 
 import {
