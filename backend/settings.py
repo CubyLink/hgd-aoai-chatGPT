@@ -45,7 +45,7 @@ class _UiSettings(BaseSettings):
     logo: Optional[str] = None
     chat_logo: Optional[str] = None
     chat_title: str = "Beginne zu chatten"
-    chat_description: str = "This chatbot is configured to answer your questions"
+    chat_description: str = "Der Chatbot ist konfiguriert um deine Fragen zu beantworten!"
     favicon: str = "/favicon.ico"
     show_share_button: bool = True
 
